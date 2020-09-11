@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ProyectoFinalDM</string>
+    <string name="j1">Jugador 1</string>
+    <string name="j4">Jugador 4</string>
+    <string name="j3">Jugador 3</string>
+    <string name="j2">Jugador 2</string>
+    <string name="cruzar">Cruzar</string>
+    <string name="txt_prueba">texto prueba</string>
+    <string name="lbl_titulo">CRUCES TORNEO</string>
+    <string name="lbl_registrar">REGISTRAR JUGADOR</string>
+    <string name="lbl_iniciarTorneo">INICIAR TORNEO</string>
+    <string name="lbl_nombre">Nombre</string>
+    <string name="lbl_apellidos">Apellidos</string>
+    <string name="lbl_intro_apell">Introduce los apellidos</string>
+    <string name="lbl_intro_nom">Introduce el nombre</string>
+    <string name="lbl_cancelar">CANCELAR</string>
+    <string name="lbl_iniciar">INICIAR</string>
+    <string name="lbl_volver">VOLVER</string>
+    <string name="lbl_consultar">CONSULTAR JUGADORES</string>
+    <string name="lbl_eliminar">ELIMINAR</string>
+</resources>
